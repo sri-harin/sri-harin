@@ -10,7 +10,7 @@
 
 🚀 Currently building projects in Data Analytics, Data Visualization, and Business Intelligence.
 
-🎯 Career Goal: To become a Data Analyst and contribute to data-driven decision making.
+🎯 Career Goal: To become a Data Analyst and leverage data-driven insights to solve real-world business problems.
 
 ---
 
