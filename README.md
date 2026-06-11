@@ -6,15 +6,27 @@
 
 💡 Passionate about Data Analytics, Business Intelligence, Data Visualization, and Data Science.
 
-🚀 I enjoy transforming raw data into meaningful insights using SQL, Power BI, Excel, and Python.
+🚀 I enjoy transforming raw data into actionable insights using SQL, Power BI, Excel, and Python.
 
 🎯 Career Goal: To become a Data Analyst and leverage data-driven insights to solve real-world business problems.
 
 ---
 
+## 🛠️ Tools & Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
+
 ## 👩‍💻 Technical Skills
 
-### Programming Languages
+### Programming
 
 * Python
 * SQL
@@ -27,16 +39,16 @@
 * Dashboard Development
 * Business Analytics
 
-### Tools & Technologies
+### Database
+
+* MySQL
+
+### Tools
 
 * Power BI
 * Microsoft Excel
 * Git & GitHub
 * Jupyter Notebook
-
-### Database
-
-* MySQL
 
 ---
 
@@ -46,15 +58,17 @@
 
 Power BI dashboard analyzing Netflix content trends, ratings, genres, release years, and global content distribution.
 
-[View Project](https://github.com/sri-harin/Netflix-PowerBI-Dashboard)
+🔗 Project:
+https://github.com/sri-harin/Netflix-PowerBI-Dashboard
 
 ---
 
 ### 🗳️ Tamil Nadu Election Dashboard
 
-Interactive Power BI dashboard visualizing election results, voting trends, constituency analysis, and party performance.
+Interactive Power BI dashboard visualizing election results, constituency performance, and voting trends.
 
-[View Project](https://github.com/sri-harin/TamilNadu-Election-Dashboard)
+🔗 Project:
+https://github.com/sri-harin/TamilNadu-Election-Dashboard
 
 ---
 
@@ -62,7 +76,8 @@ Interactive Power BI dashboard visualizing election results, voting trends, cons
 
 SQL-based business analysis project focused on sales trends, customer behavior, and business insights.
 
-[View Project](https://github.com/sri-harin/Zepto_Sql_Project)
+🔗 Project:
+https://github.com/sri-harin/Zepto_Sql_Project
 
 ---
 
@@ -70,7 +85,8 @@ SQL-based business analysis project focused on sales trends, customer behavior, 
 
 SQL project analyzing sales performance, revenue trends, and business growth metrics.
 
-[View Project](https://github.com/sri-harin/Retail-sales-sql-analysis)
+🔗 Project:
+https://github.com/sri-harin/Retail-sales-sql-analysis
 
 ---
 
@@ -78,7 +94,8 @@ SQL project analyzing sales performance, revenue trends, and business growth met
 
 Database project demonstrating SQL queries, data retrieval, and management operations.
 
-[View Project](https://github.com/sri-harin/Library-SQL-Project)
+🔗 Project:
+https://github.com/sri-harin/Library-SQL-Project
 
 ---
 
@@ -87,7 +104,7 @@ Database project demonstrating SQL queries, data retrieval, and management opera
 * Machine Learning with Python Internship
 * Data Analytics Virtual Internship
 * Google Kaggle AI Learning Programs
-* Data Analytics and Technology Certifications
+* Data Analytics & Technology Certifications
 
 ---
 
@@ -99,6 +116,17 @@ Database project demonstrating SQL queries, data retrieval, and management opera
 * Statistics for Data Science
 * Machine Learning Fundamentals
 * Data Storytelling & Dashboard Design
+
+---
+
+## 📈 Areas of Interest
+
+* Data Analytics
+* Business Intelligence
+* Data Visualization
+* Data Science
+* Machine Learning
+* Business Insights
 
 ---
 
